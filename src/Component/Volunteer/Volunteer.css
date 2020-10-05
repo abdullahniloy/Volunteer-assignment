@@ -1,0 +1,12 @@
+.image1 img{
+    height: 150px;
+    
+}
+.image1{
+    float: left;
+}
+.text{
+    float: left;
+    margin-top: 5px;
+    margin-left: 5px;
+}
